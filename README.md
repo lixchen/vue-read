@@ -14,4 +14,4 @@ vue源码阅读
 
 ## step
 
-- 1、explorations（探索）[getset.html]("./step/getset.html")
+- 1、explorations（探索）[getset.html](./step/getset.html)
